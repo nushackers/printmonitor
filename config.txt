@@ -1,0 +1,9 @@
+/home/h/hirman/public_html/pm/summary.txt
+1
+5000
+psts psts-dx psts-sx
+pstsb pstsb-dx pstsb-sx
+pstsc pstsc-dx pstsc-sx
+psc008 psc008-dx psc008-sx
+psc011 psc011-dx psc011-sx
+psc245 psc245-dx psc245-sx

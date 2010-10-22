@@ -1,0 +1,9 @@
+2
+psts 3
+psts 0
+pstsb-dx 1
+pstsb-sx 0
+psc008 3
+psc008 0
+psc008-dx 0
+psc008-sx 0
